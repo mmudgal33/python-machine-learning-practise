@@ -131,7 +131,9 @@ Level Up Your Data Science Skills with ChatGPT | Unlock the Secrets of AI-Assist
 
 100 Days of Machine Learning
 https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
+
 campusx sql
 https://www.youtube.com/watch?v=nopIGY1zJE0&t=8307s&pp=ygULY2FtcHVzeCBzcWw%3D
+
 campusx python dsa
 https://www.youtube.com/watch?v=f9Aje_cN_CY&t=13748s&pp=ygUOY2FtcHVzeCBweXRob24%3D
