@@ -1,3 +1,7 @@
+https://campusx1040.graphy.com/s/preview/courses/CampusX-Data-Science-Mentorship-Program#6376dbd8e4b065a4cadac4db
+https://www.youtube.com/watch?v=1z5-O7-5AXk&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z
+
+
 CampusX Data Science Mentorship Program
 
 Session 1 - Python Fundamentals | CampusX Data Science Mentorship Program | 7th Nov 2022
@@ -127,3 +131,7 @@ Level Up Your Data Science Skills with ChatGPT | Unlock the Secrets of AI-Assist
 
 100 Days of Machine Learning
 https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
+campusx sql
+https://www.youtube.com/watch?v=nopIGY1zJE0&t=8307s&pp=ygULY2FtcHVzeCBzcWw%3D
+campusx python dsa
+https://www.youtube.com/watch?v=f9Aje_cN_CY&t=13748s&pp=ygUOY2FtcHVzeCBweXRob24%3D
